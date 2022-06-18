@@ -1,4 +1,4 @@
-I'm Grayson, an incoming doctoral student (Statistics and Forestry) in the [Finley Lab](www.finley-lab.com) at Michigan State University. Previous to coming to Michigan State, I received my BA in Mathematics with a concentration in statistics at Reed College. 
+I'm Grayson, an incoming doctoral student (Statistics and Forestry) in the [Finley Lab](https://www.finley-lab.com) at Michigan State University. Before coming to Michigan State, I received my BA in Mathematics with a concentration in statistics at Reed College. 
 
 My research interests include hierarchical Bayesian modeling, small area estimation, applications of statistics to forestry, and education. For a list of my research (and other) endevors see my CV. 
 
