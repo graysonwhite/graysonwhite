@@ -8,4 +8,4 @@ Outside of research and academia, I've worked as a Data Scientist contracting wi
 - [graysonwhite/gglm](https://github.com/graysonwhite/gglm): Grammar of Graphics for Linear Model Diagnostic Plots
 - [graysonwhite/trimetStops](https://github.com/graysonwhite/trimetStops): Data on TriMet stops in the Portland Metro Area
 
-I enjoy exploring new places with my dog Dude, camping, cycling, and trying my best to perfect my home espresso skills and technique.
+I enjoy exploring new places with my dog Dude, camping, cycling, and trying my best to perfect my home espresso skills and technique. 
