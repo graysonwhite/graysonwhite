@@ -1,8 +1,8 @@
-I'm Grayson, a graduate student pursuing a doctoral degree in Forestry and masters in Statistics in the [Finley Lab](https://www.finley-lab.com) at Michigan State University. Before coming to Michigan State, I received my BA in Mathematics with a concentration in statistics at Reed College. 
+I'm Grayson, a statistics and data science educator, currently a Visiting Assitant Professor of Statistics at Reed College (starting fall 2025). My graduate education was pursued in the [Finley Lab](https://www.finley-lab.com) at Michigan State University, where I received an MS in Statistics and will complete my PhD in Forestry in 2026. Before coming to Michigan State, I received my BA in Mathematics with a concentration in statistics at Reed College. 
 
 My research interests include hierarchical Bayesian modeling, small area estimation, applications of statistics to forestry, and education. 
 
-Outside of research and academia, I've worked as a Data Scientist contracting with the USDA Forest Service. I also enjoy developing and maintaining R packages, some of which are highlighted below:
+Outside of research and academia, I've worked as a Data Scientist contracting with the USDA Forest Service and Data Science Educator at Posit. I also enjoy developing and maintaining R packages, some of which are highlighted below:
 
 - [USDAForestService/FIESTA](https://github.com/USDAForestService/FIESTA): Forest Inventory Estimation and Analysis 
 - [graysonwhite/gglm](https://github.com/graysonwhite/gglm): Grammar of Graphics for Linear Model Diagnostic Plots
