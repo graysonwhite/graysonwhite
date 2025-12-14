@@ -1,4 +1,4 @@
-I'm Grayson, a statistics and data science educator, currently a Visiting Assitant Professor of Statistics at Reed College. My graduate education was pursued in the [Finley Lab](https://www.finley-lab.com) at Michigan State University, where I received an MS in Statistics and will complete my PhD in Forestry in 2026. Before coming to Michigan State, I received my BA in Mathematics with a concentration in Statistics at Reed College. 
+I'm Grayson, a statistics and data science educator, currently a Visiting Assitant Professor of Statistics at Reed College. My graduate education was pursued in the [Finley Lab](https://www.finley-lab.com) at Michigan State University, where I received an MS in Statistics and PhD in Forestry. Before coming to Michigan State, I received my BA in Mathematics with a concentration in Statistics at Reed College. 
 
 My research interests include small area estimation, hierarchical Bayesian modeling, applications of statistical methods to forestry and natural resources problems, and statistical software development. 
 
