@@ -8,5 +8,7 @@ Outside of academia, I've worked as a Data Scientist contracting with the USDA F
 - [graysonwhite/gglm](https://github.com/graysonwhite/gglm): Grammar of Graphics for Linear Model Diagnostic Plots
 - [harvard-ufds/saeczi](https://github.com/harvard-ufds/saeczi): Small area estimation for continuous zero-inflated data
 - [graysonwhite/kbaabb](https://github.com/graysonwhite/kbaabb): A kNN-based approximation to the approximate Bayesian bootstrap
+- [simonpcouch/forested](https://github.com/simonpcouch/forested): A data package with FIA data in Washington state
+- [mcconvil/mase](https://github.com/mcconvil/mase): Model-Assisted Survey Estimation
 
 I enjoy exploring new places with my dog ([Dude](https://graysonwhite.com/dude.JPG)), camping, cycling, and trying my best to perfect my home espresso technique. 
